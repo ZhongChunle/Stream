@@ -63,5 +63,7 @@ public class Demo {
             case "Y":
                 System.exit(0);
         }
+
+        System.out.println("这是一个修改的项目");
     }
 }
